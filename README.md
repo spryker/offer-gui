@@ -4,6 +4,8 @@
 
 Module is responsible for providing the gui part for Offer functionality.
 
+**DEPRECATED - This module is not continued at this point.**
+
 ## Installation
 
 ```
